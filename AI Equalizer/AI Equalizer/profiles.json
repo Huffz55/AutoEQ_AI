@@ -1,0 +1,97 @@
+[
+  {
+    "Genre": "Trap",
+    "Preamp": -3,
+    "Filters": [
+      {
+        "Band": 1,
+        "Type": "ON",
+        "Frequency": 40,
+        "Gain": 6.0,
+        "Q": 0.7
+      },
+      {
+        "Band": 2,
+        "Type": "ON",
+        "Frequency": 250,
+        "Gain": -2.0,
+        "Q": 1.0
+      },
+      {
+        "Band": 3,
+        "Type": "ON",
+        "Frequency": 7500,
+        "Gain": -3.0,
+        "Q": 2.0
+      }
+    ]
+  },
+  {
+    "Genre": "Progressive Metal",
+    "Preamp": -2,
+    "Filters": [
+      {
+        "Band": 1,
+        "Type": "ON",
+        "Frequency": 85,
+        "Gain": 3.5,
+        "Q": 1.2
+      },
+      {
+        "Band": 2,
+        "Type": "ON",
+        "Frequency": 300,
+        "Gain": -1.5,
+        "Q": 1.0
+      },
+      {
+        "Band": 3,
+        "Type": "ON",
+        "Frequency": 2500,
+        "Gain": 1.5,
+        "Q": 1.4
+      },
+      {
+        "Band": 4,
+        "Type": "ON",
+        "Frequency": 7500,
+        "Gain": -4.0,
+        "Q": 2.0
+      }
+    ]
+  },
+  {
+    "Genre": "Classical",
+    "Preamp": -2.0,
+    "Filters": [
+      {
+        "Band": 1,
+        "Type": "ON",
+        "Frequency": 150,
+        "Gain": 1.5,
+        "Q": 0.8
+      },
+      {
+        "Band": 2,
+        "Type": "ON",
+        "Frequency": 4000,
+        "Gain": 1.0,
+        "Q": 1.5
+      },
+      {
+        "Band": 3,
+        "Type": "ON",
+        "Frequency": 7500,
+        "Gain": -2.0,
+        "Q": 2.0
+      },
+      {
+        "Band": 4,
+        "Type": "ON",
+        "Frequency": 12000,
+        "Gain": 1.5,
+        "Q": 0.7
+      }
+    ]
+  }
+]
